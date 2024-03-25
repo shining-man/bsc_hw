@@ -6555,7 +6555,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x10_Odd_Even") (at 128.905 31.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid c11cc4ca-123a-49c0-9d02-2c32398685d2)
     (property "Reference" "J1" (at 130.175 16.6202 0)
       (effects (font (size 1.27 1.27)))
@@ -6567,6 +6567,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 128.905 31.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "" (at 128.905 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 000d715c-1b95-44a7-9dac-1eef1a39120f))
