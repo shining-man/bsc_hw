@@ -19279,7 +19279,7 @@
   (gr_text "R86: 3V3 to Ext.-Port\nR87: 5V to Ext.-Port" (at 49.3522 91.6178) (layer "B.SilkS") (tstamp 54f4641f-9dea-4550-8245-e6ccff2a2e50)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "PCB V2.4.1\nhttps://github.com/shining-man/bsc_hw" (at 34.1884 72.39 270) (layer "B.SilkS") (tstamp 599b762c-eda1-4edd-8ff8-e0e952de7289)
+  (gr_text "PCB V2.5\nhttps://github.com/shining-man/bsc_hw" (at 34.1884 72.39 270) (layer "B.SilkS") (tstamp 599b762c-eda1-4edd-8ff8-e0e952de7289)
     (effects (font (size 1.1 1.1) (thickness 0.15)) (justify left mirror))
   )
   (gr_text "   U1|U2|U3|\nJP 07|14|21|3V3->Ux_VCC\nJP 08|15|22|GND->Ux_GND\nJP 09|16|23|UxRX->UxRX_S\nJP 10|17|24|UxTX->UxTX_S\nJP 11|18|- |UxRX_S->UxRX_O\nJP 12|19|- |UxTX_S->UxTX_O\nJP 13|20|- |UxRXTX_EN->UxRXTX_ENs" (at 147.066 46.863) (layer "B.SilkS") (tstamp 9fcde856-7400-44bb-a09a-30ed623e922d)
