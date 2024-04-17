@@ -6,7 +6,7 @@
 
   (title_block
     (title "BSC")
-    (date "2024-04-07")
+    (date "2024-04-16")
     (rev "2.5")
   )
 
@@ -6555,7 +6555,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x10_Odd_Even") (at 128.905 31.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid c11cc4ca-123a-49c0-9d02-2c32398685d2)
     (property "Reference" "J1" (at 130.175 16.6202 0)
       (effects (font (size 1.27 1.27)))
@@ -7400,7 +7400,7 @@
   )
 
   (symbol (lib_id "Regulator_Switching:R-78E3.3-0.5") (at 135.255 154.305 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid f8c88117-930f-4fb6-80c5-667e779502ed)
     (property "Reference" "U19" (at 135.255 148.7002 0)
       (effects (font (size 1.27 1.27)))
